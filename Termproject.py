@@ -149,3 +149,4 @@ for i in range(len(methods)):
     plt.text(i + width, f1_scores[i]+0.02, f"{f1_scores[i]:.2f}")
 
 plt.show()
+
